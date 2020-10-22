@@ -1,9 +1,5 @@
-# BelajarHTML
-Belajar HTML dengan mudah dan cepat
+# Curriculum Vitae
+![Foto Ajang](https://cdn-brilio-net.akamaized.net/community/avatar/image_1603204203_5f8ef46bdccaf.jpeg)
 
 ## Data Pribadi
 
-| Nama        | Ajang Supardi |
-|             |               |
-| Header      | Title         |
-| Paragraph   | Text          |
