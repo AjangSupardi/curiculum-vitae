@@ -1,6 +1,9 @@
 # BelajarHTML
 Belajar HTML dengan mudah dan cepat
 
-| Syntax      | Description |
-| Header      | Title       |
-| Paragraph   | Text        |
+## Data Pribadi
+
+| Nama        | Ajang Supardi |
+| ----------- | -----------   |
+| Header      | Title         |
+| Paragraph   | Text          |
